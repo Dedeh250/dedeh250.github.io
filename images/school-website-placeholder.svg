@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#103558"/>
+      <stop offset="1" stop-color="#071a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="695" cy="75" r="165" fill="#ffffff" opacity="0.035"/>
+  <circle cx="100" cy="465" r="150" fill="#4e7fc0" opacity="0.14"/>
+  <circle cx="400" cy="235" r="120" fill="#4e7fc0" opacity="0.12"/>
+  <g fill="none" stroke="#cfe4fb" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="320" y="208" width="160" height="126"/>
+    <path d="M350 208l50-52 50 52"/>
+    <path d="M400 156v-30"/>
+    <path d="M400 126h28l-8 8 8 8h-28"/>
+    <circle cx="400" cy="184" r="14"/>
+    <path d="M400 175v9l6 4"/>
+    <rect x="340" y="228" width="26" height="26" rx="2"/>
+    <path d="M340 241h26M353 228v26" opacity="0.6"/>
+    <rect x="434" y="228" width="26" height="26" rx="2"/>
+    <path d="M434 241h26M447 228v26" opacity="0.6"/>
+    <path d="M382 334v-44a18 18 0 0 1 36 0v44"/>
+    <path d="M400 290v44"/>
+    <path d="M310 334h180"/>
+    <path d="M338 208v-18h124v18" opacity="0.55"/>
+  </g>
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="4" fill="#a9bed6">PLACEHOLDER IMAGE</text>
+</svg>
